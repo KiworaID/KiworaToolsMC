@@ -11,6 +11,10 @@ Mengatur konfigurasi server dengan lebih efisien
 Dan masih banyak lagi!
 Dengan Kiworatools, kamu dapat fokus pada hal-hal yang lebih penting, seperti membuat konten yang lebih keren untuk pemainmu. Jadi, tunggu apa lagi? Install Kiworatools sekarang dan rasakan perbedaannya!
 
+Donate Bre Untuk Saudara Kita
+=
+https://sociabuzz.com/kiwora/tribe
+
 Untuk menggunakannya kamu hanya perlu mengaktifkan experimental seperti di bawah ini
 ------------------------------------------------------------------------------------
 ![photo_2024-06-12_13-40-44](https://github.com/KiworaID/KiworaToolsMC/assets/165986268/42e87a73-bb54-4751-a6f2-1caa45c61ade)
