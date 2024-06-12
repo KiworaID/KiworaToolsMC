@@ -27,7 +27,11 @@ Cara memakainya, kamu hanya perlu mengambil compass di inventory mu, lalu berika
 ---------------------------------------------------------------------------------------------------------------------
 ![photo_2024-06-12_13-40-51](https://github.com/KiworaID/KiworaToolsMC/assets/165986268/0a087d3e-4a6a-49ad-99b9-2c91b21f252b)
 
-Setelah memberi dirimu tag, kamu bisa memakai nya dengan cara klik kanan pada mouse / tahan layar hp mu
+Setelah memberi dirimu tag, kamu bisa memakai nya dengan cara klik kanan pada mouse / tahan layar hp mu, dan akan muncul seperti ini
+-
+![jadi](https://github.com/KiworaID/KiworaToolsMC/assets/165986268/349d504c-79d5-462c-b5f0-9faa91148656)
+
+
 -------------------------------------------------------------------------------------------------------
 KiworaTools ini masih dalam tahap pengembangan, jadi mohon masukan jika ada keluhan atau masukan kepada [ kenzhereal@gmail.com ] saya sangat menerima masukan anda yang baik maupun buruk.
 ===============================================================
