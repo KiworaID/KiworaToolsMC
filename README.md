@@ -15,6 +15,10 @@ Donate Bre Untuk Saudara Kita
 =
 https://sociabuzz.com/kiwora/tribe
 
+=
+Beberapa Fitur Mungkin Tidak Akan Bekerja Di Karena Kan Ini Masih Beta
+=
+
 Untuk menggunakannya kamu hanya perlu mengaktifkan experimental seperti di bawah ini
 ------------------------------------------------------------------------------------
 ![photo_2024-06-12_13-40-44](https://github.com/KiworaID/KiworaToolsMC/assets/165986268/42e87a73-bb54-4751-a6f2-1caa45c61ade)
