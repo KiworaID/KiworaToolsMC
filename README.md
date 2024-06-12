@@ -10,12 +10,12 @@ Memantau aktivitas pemain dengan lebih akurat
 Mengatur konfigurasi server dengan lebih efisien
 Dan masih banyak lagi!
 Dengan Kiworatools, kamu dapat fokus pada hal-hal yang lebih penting, seperti membuat konten yang lebih keren untuk pemainmu. Jadi, tunggu apa lagi? Install Kiworatools sekarang dan rasakan perbedaannya!
-
+🇵🇸
 Donate Bre Untuk Saudara Kita
 =
 https://sociabuzz.com/kiwora/tribe
 
-=
+💭
 Beberapa Fitur Mungkin Tidak Akan Bekerja Di Karena Kan Ini Masih Beta
 =
 
