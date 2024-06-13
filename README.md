@@ -25,7 +25,12 @@ Untuk menggunakannya kamu hanya perlu mengaktifkan experimental seperti di bawah
 
 Cara memakainya, kamu hanya perlu mengambil compass di inventory mu, lalu berikan tag pada dirimu sendiri seperti ini
 ---------------------------------------------------------------------------------------------------------------------
-![photo_2024-06-12_13-40-51](https://github.com/KiworaID/KiworaToolsMC/assets/165986268/0a087d3e-4a6a-49ad-99b9-2c91b21f252b)
+![photo_2024-06-13_12-59-39](https://github.com/KiworaID/KiworaToolsMC/assets/165986268/1968ae2b-152b-45ba-8006-9219bf0f463f)
+
+supaya member bisa menggunakan tools khusus member kamu perlu command block, dengan setingan ALWAYS ACTIVE,REPEAT , dan ini kode nya
+-
+![photo_2024-06-13_12-59-32](https://github.com/KiworaID/KiworaToolsMC/assets/165986268/99b8a291-2404-4b52-ad88-321891758ccc)
+
 
 Setelah memberi dirimu tag, kamu bisa memakai nya dengan cara klik kanan pada mouse / tahan layar hp mu, dan akan muncul seperti ini
 -
