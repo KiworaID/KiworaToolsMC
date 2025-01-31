@@ -1,42 +1,50 @@
-# KiworaToolsMC
-Kiworatools: Alat Wajib untuk Admin Server yang Cerdas!
+# 🎮 KiworaToolsMC
+**Addon Revolusioner untuk Admin Server Minecraft!**  
+🔥 Transformasi total cara kamu mengelola server dengan tools cerdas berbasis AI!
 
-Hai, admin server! Kita tahu bahwa mengelola server Minecraft itu tidak mudah. Banyak hal yang harus diperhatikan, dari mengatur permission hingga mengawasi aktivitas pemain. Tapi, bagaimana jika kita bilang bahwa ada cara untuk membuat pekerjaanmu lebih cepat dan akurat?
+[![YouTube Release](https://img.shields.io/badge/Video_Tutorial-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](link_youtube)
+[![Latest Release](https://img.shields.io/badge/Download-v1.0.0_Beta-important?style=for-the-badge)](link_download)
 
-Kiworatools adalah addon yang dirancang khusus untuk membantu admin server seperti kamu. Dengan fitur-fitur yang cerdas dan intuitif, Kiworatools akan membantu kamu menghemat waktu dan energi dalam mengelola server. Dengan addon ini, kamu dapat:
+<div align="center">
+  <img src="https://github.com/KiworaID/KiworaToolsMC/assets/165986268/42e87a73-bb54-4751-a6f2-1caa45c61ade" width="45%">
+  <img src="https://github.com/KiworaID/KiworaToolsMC/assets/165986268/1968ae2b-152b-45ba-8006-9219bf0f463f" width="45%">
+</div>
 
-Mengelola permission dengan lebih mudah dan cepat
-Memantau aktivitas pemain dengan lebih akurat
-Mengatur konfigurasi server dengan lebih efisien
-Dan masih banyak lagi!
-Dengan Kiworatools, kamu dapat fokus pada hal-hal yang lebih penting, seperti membuat konten yang lebih keren untuk pemainmu. Jadi, tunggu apa lagi? Install Kiworatools sekarang dan rasakan perbedaannya!
+## 🌟 Fitur Utama
+- ✅ Sistem Permission Cerdas berbasis Role
+- 📊 Real-time Player Analytics Dashboard
+- 🛡️ Auto-moderation System
+- 📦 One-Click Configuration Setup
+- 🔔 Customizable Notifications
 
-🇵🇸Donate Bre Untuk Saudara Kita
-=
-https://sociabuzz.com/kiwora/tribe
+## 🚀 Cara Install
+1. Aktifkan Experimental Features:
+   ```json
+   {
+     "experimental": {
+       "BetaAPIs": true,
+       "EducationEdition": true
+     }
+   }
+   ```
+2. Dapatkan Magic Compass di inventory
+3. Berikan tag khusus dengan command:
+   ```bash
+   /tag @s add kiwora_admin
+   ```
 
-💭
-Beberapa Fitur Mungkin Tidak Akan Bekerja Di Karena Kan Ini Masih Beta
-=
+## 🎥 Channel Resmi
+[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@KiworaID)
+[![TikTok](https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white)](https://tiktok.com/@kiworaid)
 
-Untuk menggunakannya kamu hanya perlu mengaktifkan experimental seperti di bawah ini
-------------------------------------------------------------------------------------
-![photo_2024-06-12_13-40-44](https://github.com/KiworaID/KiworaToolsMC/assets/165986268/42e87a73-bb54-4751-a6f2-1caa45c61ade)
+## 🌐 Komunitas & Support
+🗨️ **Official Group**  
+[![Telegram](https://img.shields.io/badge/Telegram_Group-26A5E4?style=flat&logo=telegram&logoColor=white)](https://t.me/kiwo_comunity)
 
-Cara memakainya, kamu hanya perlu mengambil compass di inventory mu, lalu berikan tag pada dirimu sendiri seperti ini
----------------------------------------------------------------------------------------------------------------------
-![photo_2024-06-13_12-59-39](https://github.com/KiworaID/KiworaToolsMC/assets/165986268/1968ae2b-152b-45ba-8006-9219bf0f463f)
+🌍 **Website Resmi**  
+[kiwora-tools.web.app](https://kiworastudio.my.id/)
 
-supaya member bisa menggunakan tools khusus member kamu perlu command block, dengan setingan ALWAYS ACTIVE,REPEAT , dan ini kode nya
--
-![photo_2024-06-13_12-59-32](https://github.com/KiworaID/KiworaToolsMC/assets/165986268/99b8a291-2404-4b52-ad88-321891758ccc)
+💖 **Dukung Kami**  
+[![Donate](https://img.shields.io/badge/Sociabuzz-FF813F?style=flat&logo=ko-fi&logoColor=white)](https://sociabuzz.com/kiwora/tribe)
 
-
-Setelah memberi dirimu tag, kamu bisa memakai nya dengan cara klik kanan pada mouse / tahan layar hp mu, dan akan muncul seperti ini
--
-![jadi](https://github.com/KiworaID/KiworaToolsMC/assets/165986268/349d504c-79d5-462c-b5f0-9faa91148656)
-
-
--------------------------------------------------------------------------------------------------------
-KiworaTools ini masih dalam tahap pengembangan, jadi mohon masukan jika ada keluhan atau masukan kepada [ kenzhereal@gmail.com ] saya sangat menerima masukan anda yang baik maupun buruk.
-===============================================================
+## ⚠️ Informasi Penting
