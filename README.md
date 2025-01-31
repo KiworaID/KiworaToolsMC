@@ -39,7 +39,7 @@
 [![Telegram](https://img.shields.io/badge/Telegram_Group-26A5E4?style=flat&logo=telegram&logoColor=white)](https://t.me/kiwo_comunity)
 
 🌍 **Website Resmi**  
-[kiwora-tools.web.app](https://kiworastudio.my.id/)
+[kiworastudio.my.id](https://kiworastudio.my.id/)
 
 💖 **Dukung Kami**  
 [![Donate](https://img.shields.io/badge/Sociabuzz-FF813F?style=flat&logo=ko-fi&logoColor=white)](https://sociabuzz.com/kiwora/tribe)
