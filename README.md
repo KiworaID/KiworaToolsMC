@@ -2,13 +2,9 @@
 **Addon Revolusioner untuk Admin Server Minecraft!**  
 🔥 Transformasi total cara kamu mengelola server dengan tools cerdas berbasis AI!
 
-[![YouTube Release](https://img.shields.io/badge/Video_Tutorial-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](link_youtube)
-[![Latest Release](https://img.shields.io/badge/Download-v1.0.0_Beta-important?style=for-the-badge)](link_download)
+[![Channel YouTube](https://img.shields.io/badge/Channel_YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](link_youtube)
+[![Latest Release](https://img.shields.io/badge/Download-v1.0.0_Beta-important?style=for-the-badge)](https://kiworastudio.my.id/pages/addons)
 
-<div align="center">
-  <img src="https://github.com/KiworaID/KiworaToolsMC/assets/165986268/42e87a73-bb54-4751-a6f2-1caa45c61ade" width="45%">
-  <img src="https://github.com/KiworaID/KiworaToolsMC/assets/165986268/1968ae2b-152b-45ba-8006-9219bf0f463f" width="45%">
-</div>
 
 ## 🌟 Fitur Utama
 - ✅ Sistem Permission Cerdas berbasis Role
@@ -30,7 +26,8 @@
 2. Dapatkan Magic Compass di inventory
 3. Berikan tag khusus dengan command:
    ```bash
-   /tag @s add kiwora_admin
+   /tag @s add admin for admin menu
+   /tag @s add member for member menu
    ```
 
 ## 🎥 Channel Resmi
