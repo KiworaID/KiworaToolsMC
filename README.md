@@ -3,7 +3,7 @@
 🔥 Transformasi total cara kamu mengelola server dengan tools cerdas berbasis AI!
 
 [![Channel YouTube](https://img.shields.io/badge/Channel_YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](link_youtube)
-[![Latest Release](https://img.shields.io/badge/Download-v1.0.0_Beta-important?style=for-the-badge)](https://kiworastudio.my.id/pages/addons)
+[![Latest Release](https://img.shields.io/badge/Download-Addon-important?style=for-the-badge)](https://kiworastudio.my.id/pages/addons)
 
 
 ## 🌟 Fitur Utama
