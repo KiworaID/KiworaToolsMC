@@ -42,9 +42,9 @@ Modify your `settings.json` file to enable Beta APIs and Education Edition featu
 }
 ```
 
-### 2. Acquire the Magic Compass
+### 2. Acquire the Book Menu
 
-Ensure the Magic Compass is added to your inventory for addon functionality.
+Ensure the Book Menu is added to your inventory for addon functionality.
 
 ### 3. Assign Role Tags
 
@@ -61,7 +61,9 @@ Use the following commands to assign roles for accessing specific menus:
 
 Stay updated with tutorials, updates, and more through our official channels:
 
-- *(Add your YouTube, Discord, or other links here)*
+- *https://www.youtube.com/@KiworaID*
+- *https://discord.gg/NQ8bYbT4tZ*
+- *https://chat.whatsapp.com/Eb0P1b5qNrC8wwqVBIl30w*
 
 ---
 
@@ -69,15 +71,16 @@ Stay updated with tutorials, updates, and more through our official channels:
 
 Join our community for support, updates, and to connect with other users:
 
-- **Official Group:** *(Add group link here)*
+- **Official Group:** *(https://chat.whatsapp.com/Eb0P1b5qNrC8wwqVBIl30w
+)*
 - **Official Website:** [kiworastudio.com](https://kiworastudio.com)
-- **Support Us:** Help keep KiworaToolsMC free and growing!
+- **Support Us:** Help keep KiworaTools free and growing!
 
 ---
 
 ## 🤝 Contributing
 
-We welcome contributions to **KiworaToolsMC**! To contribute:
+We welcome contributions to **KiworaToolsMC (KiwEssentials)**! To contribute:
 
 1. Fork the repository.
 2. Create a new branch:  
