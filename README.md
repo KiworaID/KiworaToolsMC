@@ -1,51 +1,75 @@
-Tentu! Berikut adalah versi **plaintext** yang bisa Anda salin langsung:
+🎮 KiworaToolsMC
+Lightweight and Free Server Tools Addon for Minecraft!⚡ A simple, efficient, and open-source addon designed to streamline server management with powerful features.
 
-````
-# 🎮 **KiworaToolsMC**  
-**Lightweight and Free Server Tools Addon for Minecraft!**  
-⚡ A simple, efficient, and open-source addon that helps you manage your server with ease!
 
-[![Channel YouTube](https://img.shields.io/badge/Channel_YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](link_youtube)  
-[![Latest Release](https://img.shields.io/badge/Download-Addon-important?style=for-the-badge)](https://kiworastudio.com/pages/addons)
+📋 Table of Contents
 
-## 🌟 **Key Features**
-- ✅ **Smart Permission System** based on Roles
-- 📊 **Real-time Player Analytics Dashboard**
-- 🛡️ **Auto-moderation System**
-- 📦 **One-Click Configuration Setup**
-- 🔔 **Customizable Notifications**
+Key Features
+Installation Guide
+Official Channels
+Community & Support
+Contributing
+License
 
-## 🚀 **Installation Guide**
-1. Enable Experimental Features in `settings.json`:
-   ```json
-   {
-     "experimental": {
-       "BetaAPIs": true,
-       "EducationEdition": true
-     }
-   }
-````
 
-2. Acquire the Magic Compass in your inventory
-3. Assign specific tags using the following commands:
+🌟 Key Features
 
-   ```bash
-   /tag @s add admin for admin menu
-   /tag @s add member for member menu
-   ```
+✅ Smart Permission System: Role-based access control for streamlined management.
+📊 Real-time Player Analytics Dashboard: Monitor player activity with an intuitive interface.
+🛡️ Auto-moderation System: Keep your server safe with automated moderation tools.
+📦 One-Click Configuration Setup: Get started quickly with minimal setup.
+🔔 Customizable Notifications: Tailor alerts to fit your server's needs.
 
-## 🎥 **Official Channel**
 
-[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge\&logo=youtube\&logoColor=white)](https://youtube.com/@KiworaID)
-[![TikTok](https://img.shields.io/badge/TikTok-000000?style=for-the-badge\&logo=tiktok\&logoColor=white)](https://tiktok.com/@kiworaid)
+🚀 Installation Guide
+Follow these steps to install and configure KiworaToolsMC on your Minecraft server:
 
-## 🌐 **Community & Support**
+Enable Experimental FeaturesModify your settings.json file to enable Beta APIs and Education Edition features:
+{
+  "experimental": {
+    "BetaAPIs": true,
+    "EducationEdition": true
+  }
+}
 
-🗨️ **Official Group**
-[![Telegram](https://img.shields.io/badge/Telegram_Group-26A5E4?style=flat\&logo=telegram\&logoColor=white)](https://t.me/kiwo_comunity)
 
-🌍 **Official Website**
-[kiworastudio.com](https://kiworastudio.com/)
+Acquire the Magic CompassEnsure the Magic Compass is added to your inventory for addon functionality.
 
-💖 **Support Us**
-[![Donate](https://img.shields.io/badge/Sociabuzz-FF813F?style=flat\&logo=ko-fi\&logoColor=white)](https://sociabuzz.com/kiwo/tribe)
+Assign Role TagsUse the following commands to assign roles for accessing specific menus:
+/tag @s add admin    # Grants access to the admin menu
+/tag @s add member   # Grants access to the member menu
+
+
+
+
+🎥 Official Channels
+Stay updated with tutorials, updates, and more through our official channels:
+
+
+
+
+
+🌐 Community & Support
+Join our community for support, updates, and to connect with other users:
+
+Official Group:
+
+Official Website:kiworastudio.com
+
+Support Us:Help keep KiworaToolsMC free and growing!
+
+
+
+🤝 Contributing
+We welcome contributions to KiworaToolsMC! To contribute:
+
+Fork the repository.
+Create a new branch (git checkout -b feature/your-feature).
+Commit your changes (git commit -m "Add your feature").
+Push to the branch (git push origin feature/your-feature).
+Open a Pull Request.
+
+Please read our Contributing Guidelines for more details.
+
+📜 License
+This project is licensed under the MIT License. See the LICENSE file for details.
